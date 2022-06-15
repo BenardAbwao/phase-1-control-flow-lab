@@ -1,5 +1,5 @@
 function scuberGreetingForFeet(distance){
-  // Write your code here!
+  //Write your code here!
   if (distance <= 400) {
     return 'This one is on me!'
   } else if (distance > 2000 && distance < 2500){
@@ -22,4 +22,7 @@ function switchOnCharmFromTip(tipString){
   } else if (tipString === "thanks for everything"){
     return "Bye."
   }
-}
+ }
+
+
+
